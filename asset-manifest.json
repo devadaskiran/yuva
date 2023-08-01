@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yuva/static/css/main.fd640c4d.chunk.css",
+    "main.js": "/yuva/static/js/main.5a4c6002.chunk.js",
+    "main.js.map": "/yuva/static/js/main.5a4c6002.chunk.js.map",
+    "runtime-main.js": "/yuva/static/js/runtime-main.afd7c3c6.js",
+    "runtime-main.js.map": "/yuva/static/js/runtime-main.afd7c3c6.js.map",
+    "static/js/2.aee63b52.chunk.js": "/yuva/static/js/2.aee63b52.chunk.js",
+    "static/js/2.aee63b52.chunk.js.map": "/yuva/static/js/2.aee63b52.chunk.js.map",
+    "static/js/3.1ca70f23.chunk.js": "/yuva/static/js/3.1ca70f23.chunk.js",
+    "static/js/3.1ca70f23.chunk.js.map": "/yuva/static/js/3.1ca70f23.chunk.js.map",
+    "index.html": "/yuva/index.html",
+    "static/css/main.fd640c4d.chunk.css.map": "/yuva/static/css/main.fd640c4d.chunk.css.map",
+    "static/js/2.aee63b52.chunk.js.LICENSE.txt": "/yuva/static/js/2.aee63b52.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/yuva/static/media/logo.6ce24c58.svg",
+    "static/media/logo.b9961a89.jpeg": "/yuva/static/media/logo.b9961a89.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afd7c3c6.js",
+    "static/js/2.aee63b52.chunk.js",
+    "static/css/main.fd640c4d.chunk.css",
+    "static/js/main.5a4c6002.chunk.js"
+  ]
+}
